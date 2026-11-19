@@ -1,0 +1,25 @@
+AI Usage Statement
+
+Artificial intelligence tools(ChatGPT 5.2 Auto Model by OpenAI) 
+were used during the preparation of this assignment 
+only for report organization, documentation clarity, and experimental support.
+AI assistance was utilized to improve the readability of the report, 
+including the creation of section titles and organizing answers into a clear 
+question–answer format.
+
+The core Python DNS query tool submitted for grading was written manually, 
+and no AI-generated code is included in the submitted implementation.
+
+During benchmarking experiments, AI assistance was used only to format 
+and print benchmark results in a cleaner and more readable way.
+In this experimental code, AI suggested using a subsystem-based approach 
+instead of directly calling os.system to execute nslookup.
+This benchmarking code was used solely for result visualization 
+and screenshot purposes, and was not submitted as part of the assignment.
+
+Additionally, AI was used as a reference tool to consult documentation 
+and better understand how specific functions and libraries work, 
+similar to using official documentation or online resources.
+
+-Mehmet Umur ÖZÜ
+-211401025
